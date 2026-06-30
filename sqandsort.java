@@ -14,7 +14,7 @@ public class sqandsort {
             int arr[]={-4,-2,-1,2,3};
             */
         }
-        while (i<j) {
+        while (i<=j) {
             if(arr[i]>arr[j]){
                 ans[k]=arr[i];
                 i++;
